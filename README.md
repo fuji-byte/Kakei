@@ -27,6 +27,7 @@
 
 ## ディレクトリ構成
 
+```
 Kakei/
 ├─ components/
 │ ├─ section.tsx # セクション表示コンポーネント
@@ -39,8 +40,7 @@ Kakei/
 │ └─ itemRepo.ts # アイテムDB操作（作成 / 編集 / 削除）
 ├─ types/
 │ └─ types.ts # Section / Item 型定義
-
----
+```
 
 ## 開発セットアップ
 
